@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
+![logo.png](/img/user/images/logo.png)
+
 # Angličtina pro IT
 
 👩‍💻 Angličtina speciálně navržená pro ajťáky
